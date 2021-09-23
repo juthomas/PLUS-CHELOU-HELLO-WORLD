@@ -4,7 +4,7 @@
 * 2nd Aschiffe
 * 3rd Apayet
 * 4th Lguillau
-* 5th Agunesli
+* 5th Znaoui
 
 ## Règles
 
