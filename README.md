@@ -6,7 +6,7 @@
 * 4th Lguillau
 * 5th Agunesli
 
-## Regles
+## Règles
 
 Le principe est très simple, par équipe de un, vous devez rendre un code fonctionnel le plus long et complexe pour afficher un "Hello World !".
 
